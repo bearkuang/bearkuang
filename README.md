@@ -37,6 +37,7 @@
   <h3 align="left">Database</h3>
   <img src="https://img.shields.io/badge/Maria-20232a?style=for-the-badge&logo=mariadb&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Oracle-20232a?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Postgres-20232a?style=for-the-badge&logo=postgres&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mysql-20232a?style=for-the-badge&logo=mysql&logoColor=white">
   <h3 align="left">Collaboration Tool</h3>
   <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=white">&nbsp

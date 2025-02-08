@@ -60,15 +60,6 @@
 
 <br><br>
 
-### 🎓 Notion
----
-<div style="display:flex; flex-direction:row;">
-  <a href="https://baek-sj.notion.site/BackEnd-Developer-fac5d13880ff467e848918b4580e024d">
-      <img src="https://img.shields.io/badge/Notion-20232a?style=for-the-badge&logo=notion&logoColor=white"> 
- </a>
-</div>
-
-<br>
 
 <!--
 **bearkuang/bearkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
